@@ -1,0 +1,19 @@
+﻿First Name,Last Name,Availability,mon,tues,wed,thur,friM,friA,penalty
+John,Smith,"Monday 1-5pm, Friday 9am-1pm, Friday 1-5pm",1,0,0,0,1,1,0
+Jane,Doe,"Tuesday 1-5pm, Friday 9am-1pm",0,1,0,0,1,0,0
+Jim,Ryan,"Friday 9am-1pm, Friday 1-5pm",0,0,0,0,1,1,0
+Miles,Davis,"Monday 1-5pm, Wednesday 1-5pm, Thursday 1-5pm",1,0,0,0,0,1,0
+Louis,Armstrong,"Tuesday 1-5pm, Wednesday 1-5pm, Thursday 1-5pm, Friday 1-5pm",0,1,1,1,0,1,0
+John,Coltrane,"Monday 1-5pm, Friday 1-5pm",1,0,0,0,0,1,0
+Charlie,Parker,"Monday 1-5pm, Friday 1-5pm",1,0,0,0,0,1,0
+Joe,Reed,Friday 1-5pm,0,0,0,0,0,1,0
+Rice,Perkins,"Thursday 1-5pm, Friday 1-5pm",0,0,0,1,0,1,0
+Olamide,Zaccheaus,"Tuesday 1-5pm, Friday 1-5pm",0,1,0,0,0,1,0
+Tony,Bennet,"Friday 9am-1pm, Friday 1-5pm",0,0,0,0,1,1,0
+Kyle,Guy,Friday 1-5pm,0,0,0,0,0,1,0
+De'Andre,Hunter,"Friday 9am-1pm, Friday 1-5pm",0,0,0,0,1,1,0
+Ty,Jerome,Friday 1-5pm,0,0,0,0,0,1,0
+Kihei,Clark,"Tuesday 1-5pm, Friday 1-5pm",0,1,0,0,0,1,0
+Jay,Huff,"Tuesday 1-5pm, Friday 9am-1pm, Friday 1-5pm",0,1,0,0,1,1,0
+Dean,Groves,"Tuesday 1-5pm, Thursday 1-5pm, Friday 1-5pm",0,1,0,1,0,1,0
+Cav,Man,"Friday 9am-1pm, Friday 1-5pm",0,0,0,0,1,1,0
